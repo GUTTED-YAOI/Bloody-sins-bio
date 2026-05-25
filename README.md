@@ -29,9 +29,6 @@
 
 
 <p align="center">
-<img width="1232" height="15" alt="typewriter (1)" src="https://github.com/user-attachments/assets/113e5259-62f7-42d9-8f00-0f258edd2348" />
-
-<p align="center">
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypddj4cxdomrhjyvzl3meny2se&redirect=true">
